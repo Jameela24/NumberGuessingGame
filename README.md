@@ -11,10 +11,9 @@ Use of conditionals, loops, and methods in C#
 Structured, readable console application design
 
 
-⚠️ NB:
+**⚠️ NB:
+This is not a working code nor is it a published game.
 
-THIS IS NOT A WORKING CODE NOR IS IT A PUBLISHED GAME.
+Please do not attempt to copy the code and update it. This is plagiarism.
 
-PLEASE DO NOT ATTEMPT TO COPY THE CODE AND UPDATE IT. THIS IS PLAGIARISM.
-
-THE REPOSITORY IS SHARED FOR DEMONSTRATIONAL AND EVALUATION PURPOSES ONLY TO SHOWCASE LEARNING PROGRESS AND PROGRAMMING FUNDAMENTALS IN C#.
+The repository is shared for demonstrational and evaluation purposes only to showcase learning progress and programming fundamentals in C#.**
